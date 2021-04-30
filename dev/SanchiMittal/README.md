@@ -1,11 +1,11 @@
 # ML Model Evaluation on Wine Quality prediction 
-Dataset used : [winequality.csv](https://github.com/SanchiMittal/PRESC/blob/models_winequality/datasets/winequality.csv) (actual source : https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+Dataset used : [winequality.csv](https://github.com/SanchiMittal/PRESC/blob/models_winequality/datasets/winequality.csv) (source : https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
 This project was done as a task for resolving one of the issues in the [PRESC](https://github.com/mozilla/PRESC) repository while I was participating in [Outreachy](https://www.outreachy.org/) applications, Summer 2020.
 
 My work that __got merged__ into the repository : https://github.com/mozilla/PRESC/tree/archisha-chandel/covariate/dev/SanchiMittal
 
-This folder here now contains further evaluation and digging into the given [task](https://github.com/mozilla/PRESC/issues/2), which was not merged into PRESC due to merge conflicts. But this was an experience of immense learning for me while starting with Machine Learning and Open Source.
+This folder here now contains further evaluation and digging using data analysis.
 
 ### Contents
 
